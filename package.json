@@ -1,0 +1,19 @@
+{
+  "name": "zoro-dojo",
+  "version": "1.0.0",
+  "description": "Join my dojo, and I will train you all personally. So that we can get stronger. Ofcourse I will teach upto 9-swords-style.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roronoa Zoro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.9",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
